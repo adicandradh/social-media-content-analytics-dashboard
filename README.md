@@ -40,7 +40,7 @@ Fokus utama dari project ini adalah mengolah data aktivitas media sosial menjadi
 ## 🖼️ Preview
 Berikut dashboard interaktif yang dapat dieksplorasi secara langsung melalui Google Looker Studio:
 https://datastudio.google.com/reporting/6bb4125a-f782-4134-a511-834997cdce93
-<img width="2500" height="3126" alt="Social Media Content Analytics" src="https://github.com/user-attachments/assets/e1a93fb3-60a0-4dd9-a5dc-0cade1df2b10" />
+<img width="2500" height="3126" alt="Social_Media_Content_Analytics" src="https://github.com/user-attachments/assets/85a82cbf-06a1-4e62-a92e-39f5b1f29eca" />
 
 ## 📊 Insights
 - Pada periode 1–30 September 2025, aktivitas media sosial menghasilkan total reach sebesar 38.800, total impressions sebesar 96.730, total engagement sebesar 6.740, dan total ad spend sebesar Rp58,99 juta. Dibandingkan dengan 30 hari sebelumnya, reach meningkat 12,5%, impressions meningkat 22,0%, engagement meningkat 18,5%, sementara total ad spend menurun 7,9%, menunjukkan peningkatan performa dengan penggunaan anggaran yang lebih efisien.
@@ -48,4 +48,5 @@ https://datastudio.google.com/reporting/6bb4125a-f782-4134-a511-834997cdce93
 - Distribusi engagement berdasarkan platform menunjukkan bahwa TikTok menjadi kontributor terbesar dengan 33,1% dari total engagement, diikuti oleh Instagram sebesar 28,7%, X sebesar 28,5%, dan Facebook sebesar 9,6%. Temuan ini menunjukkan bahwa sebagian besar interaksi pengguna berasal dari TikTok, Instagram, dan X.
 - Berdasarkan content type, Story menjadi format dengan performa terbaik, menghasilkan total reach sebesar 19.500 dan total engagement sebesar 3.263. Sementara itu, Reel / Short Video, Carousel, dan Photo masing-masing menghasilkan reach sebesar 8.300, 6.600, dan 4.400.
 - Berdasarkan content theme, Entertainment mencatat performa tertinggi dengan total reach sebesar 20.550 dan total engagement sebesar 3.715, diikuti Promotion dengan 7.950 reach dan 1.401 engagement, Educational dengan 6.100 reach dan 892 engagement, serta Behind the Scenes dengan 4.200 reach dan 732 engagement.
+- Analisis hubungan antara reach dan engagement menunjukkan korelasi positif, di mana peningkatan reach cenderung diikuti oleh peningkatan engagement. Performa tertinggi terjadi pada 4 September 2025 dengan 7.150 reach dan 1.232 engagement, menunjukkan bahwa jangkauan audiens yang lebih luas berpotensi menghasilkan interaksi yang lebih tinggi.
 - Analisis berdasarkan tabel Social Media Content Performance menunjukkan bahwa kombinasi TikTok–Story–Entertainment menghasilkan engagement tertinggi sebesar 1.195, diikuti oleh Instagram–Story–Entertainment sebesar 669 dan X–Story–Entertainment sebesar 526. Temuan ini mengindikasikan bahwa konten bertema Entertainment dengan format Story cenderung memberikan performa interaksi yang lebih baik dibandingkan kombinasi konten lainnya.
