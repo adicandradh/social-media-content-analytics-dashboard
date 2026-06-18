@@ -1,4 +1,4 @@
-# Social Media Content Analytics Dashboard (Google Looker Studio)
+# Social Media Content Analytics Dashboard
 
 ## 📌 Project Type
 Personal Project
